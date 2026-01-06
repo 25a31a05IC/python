@@ -1,7 +1,7 @@
 ## ATM Program
 
 ### Code
-[atm.py](python/commit/f9b4aafbe6d05e207e629577f54fca71d3ec24e9)
+[atm.py](python/blob/main/atm.py)
 ### Output
 '''
 Enter pin: 123
